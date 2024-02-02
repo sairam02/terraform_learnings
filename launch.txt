@@ -1,0 +1,2 @@
+aws free tier account created
+process is in initial stage
